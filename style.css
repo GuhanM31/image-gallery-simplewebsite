@@ -1,0 +1,46 @@
+.recommended{
+    margin: 10px;
+    padding: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: #DFCBC9; 
+    border: solid 2px #2F93DC; 
+    justify-content: start; 
+    
+    width: 900px;
+    height: 500px;
+    margin-left: 300px;
+    margin-top: 100px;
+    
+}
+p{
+    margin-left: 300px;
+    
+    
+}
+h1{
+    background-color: black;
+    border-radius: 10px;
+    height: 40px;
+    padding: 10px;
+    display: flex;
+    color: white;
+    margin: 0px;
+}
+.recommended__container{
+    display: flex;
+    flex-wrap: wrap;
+    
+    gap: 50px;
+
+}
+.cource-card{
+    margin-left: 20px;
+   
+}
+.cource-card img{
+    width: 160px;
+    height: 150px;
+    border: solid 1px #594B47;
+}
+
